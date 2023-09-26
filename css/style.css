@@ -81,26 +81,26 @@
     grid-template-columns: 20vw 20vw 20vw;
 }
 
-.grid1 .item1 {
+.grid1 .item_a {
     grid-column: 3;
     grid-row: 3;
 }
 
-.grid1 .item2 {
+.grid1 .item_b {
     grid-column: 3;
     grid-row: 1;
 }
-.grid1 .item3 {
+.grid1 .item_c {
     grid-column: 1;
     grid-row: 2;
 }
 
-.grid1 .item4 {
+.grid1 .item_d {
     grid-column: 2;
     grid-row: 2;
 }
 
-.grid1 .item5 {
+.grid1 .item_e {
     grid-column: 3;
     grid-row: 2;
 }
